@@ -10,6 +10,7 @@ Actualmente estoy aprendiendo y fortaleciendo mis habilidades en:
 - 🔥 Firebase
 - 🧩 .NET
 - 🐳 Docker
+- 🧪 JMeter (herramientas de pruebas de rendimiento)
 
 Me considero una persona **responsable, creativa y muy comprometida** con mi mejora continua. Utilizo GitHub como una herramienta para aprender en público, practicar, documentar mis avances y seguir creciendo como profesional.
 
