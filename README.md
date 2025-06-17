@@ -1,9 +1,3 @@
-ChatGPT dijo:
-¡Genial, Kenny! Con lo que me contaste, aquí tienes una primera versión de tu descripción para GitHub, enfocada en tu motivación, aprendizaje y estilo personal. Es fresca, motivadora y muestra bien tu compromiso:
-
-markdown
-Copiar
-Editar
 # 👋 ¡Hola! Soy Kenny Orlando Londoño
 
 🎯 *Cada día es una nueva oportunidad para aprender.*
