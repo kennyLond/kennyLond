@@ -1,17 +1,51 @@
-# 👋 ¡Hola! Soy Kenny Orlando Londoño
+# Kenny Orlando Londoño
 
-🎯 *Cada día es una nueva oportunidad para aprender.*
+### Desarrollador Backend | Apasionado por crear soluciones eficientes
 
-Me apasiona la tecnología y el desarrollo porque siempre hay algo nuevo por descubrir. Empecé este camino porque me interesa entender cómo funcionan las cosas detrás de la pantalla, y porque sé que este mundo ofrece grandes oportunidades para crecer y aportar valor.
+Soy un desarrollador con sólida formación en backend y experiencia en proyectos personales como un **Sistema de Gestión de Horarios y Permisos**, donde he aplicado lógica de negocio, APIs REST y bases de datos. Estoy comprometido con la mejora continua y busco aportar en equipos que desarrollen soluciones reales.
 
-Actualmente estoy aprendiendo y fortaleciendo mis habilidades en:
-- 🌐 HTML, CSS
-- ⚙️ JavaScript, TypeScript, Angular
-- 🔥 Firebase
-- 🧩 .NET
-- 🐳 Docker
-- 🧪 JMeter (herramientas de pruebas de rendimiento)
+---
 
-Me considero una persona **responsable, creativa y muy comprometida** con mi mejora continua. Utilizo GitHub como una herramienta para aprender en público, practicar, documentar mis avances y seguir creciendo como profesional.
+### Tecnologías que domino
 
-📌 *Si te interesa lo mismo, ¡conectemos y aprendamos juntos!*
+**Backend:**
+- Python (FastAPI, Flask)
+- Node.js con Express
+- Bases de datos: MySQL, SQLite, PostgreSQL
+- Autenticación JWT
+- Git y GitHub
+
+**Frontend (nivel intermedio):**
+- HTML, CSS, JavaScript
+- TypeScript, Angular
+- Consumo de APIs REST
+
+**Otras herramientas:**
+- JMeter (pruebas de rendimiento)
+- Docker (bases)
+- Postman
+
+---
+
+### Proyectos personales
+
+**Sistema de Gestión de Horarios y Permisos**  
+Desarrollado en Python y MySQL. Incluye autenticación, validaciones, operaciones CRUD y control de registros.
+
+**Aplicaciones web con Angular y Node.js**  
+Frontend moderno y backend robusto. Implementación de JWT, validación de formularios, rutas protegidas.
+
+---
+
+### Objetivo profesional
+
+Busco oportunidades como **Desarrollador Backend Junior**, donde pueda seguir creciendo y aportar con soluciones eficientes y escalables. Estoy dispuesto a aprender, asumir retos y trabajar en equipo.
+
+---
+
+### Contacto
+
+¿Te interesa mi perfil o quieres colaborar en un proyecto?  
+Estoy disponible para entrevistas o networking profesional.
+
+> “La mejor forma de predecir el futuro es construirlo.”
