@@ -1,8 +1,8 @@
 # Kenny Orlando Londoño
 
-### Desarrollador Backend | Apasionado por crear soluciones eficientes
+### Desarrollador Backend
 
-Soy un desarrollador con sólida formación en backend y experiencia en proyectos personales como un **Sistema de Gestión de Horarios y Permisos**, donde he aplicado lógica de negocio, APIs REST y bases de datos. Estoy comprometido con la mejora continua y busco aportar en equipos que desarrollen soluciones reales.
+Soy un desarrollador con formación en backend y experiencia en proyectos personales como un **Sistema de Gestión de Horarios y Permisos**, donde he aplicado lógica de negocio, APIs REST y bases de datos. Estoy comprometido con la mejora continua y busco aportar en equipos que desarrollen soluciones reales.
 
 ---
 
