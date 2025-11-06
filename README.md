@@ -10,31 +10,14 @@ Soy un desarrollador con formación en backend y experiencia en proyectos person
 
 **Backend:**
 - Python (FastAPI, Flask)
-- Node.js con Express
 - Bases de datos: MySQL, SQLite, PostgreSQL
 - Autenticación JWT
 - Git y GitHub
 
-**Frontend (nivel intermedio):**
-- HTML, CSS, JavaScript
-- TypeScript, Angular
-- Consumo de APIs REST
-
 **Otras herramientas:**
-- JMeter (pruebas de rendimiento)
 - Docker (bases)
 - Postman
-
----
-
-### Proyectos personales
-
-**Sistema de Gestión de Horarios y Permisos**  
-Desarrollado en Python y MySQL. Incluye autenticación, validaciones, operaciones CRUD y control de registros.
-
-**Aplicaciones web con Angular y Node.js**  
-Frontend moderno y backend robusto. Implementación de JWT, validación de formularios, rutas protegidas.
-
+- 
 ---
 
 ### Objetivo profesional
@@ -43,9 +26,3 @@ Busco oportunidades como **Desarrollador Backend Junior**, donde pueda seguir cr
 
 ---
 
-### Contacto
-
-¿Te interesa mi perfil o quieres colaborar en un proyecto?  
-Estoy disponible para entrevistas o networking profesional.
-
-> “La mejor forma de predecir el futuro es construirlo.”
